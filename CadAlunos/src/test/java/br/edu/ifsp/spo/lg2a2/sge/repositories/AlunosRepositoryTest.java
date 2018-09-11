@@ -1,4 +1,4 @@
-package test.java.br.edu.ifsp.spo.lg2a2.sge.repositories;
+package br.edu.ifsp.spo.lg2a2.sge.repositories;
 
 import static org.junit.Assert.*;
 

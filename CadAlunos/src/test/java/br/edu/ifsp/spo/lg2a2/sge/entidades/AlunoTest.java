@@ -1,4 +1,4 @@
-package test.java.br.edu.ifsp.spo.lg2a2.sge.entidades;
+package br.edu.ifsp.spo.lg2a2.sge.entidades;
 
 import static org.junit.Assert.*;
 
